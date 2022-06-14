@@ -1585,6 +1585,10 @@ body.light hr.separator {
     font-size: 14px;
     line-height: 28px;
   }
+	
+	.bg{
+	display:none!important;
+	}
 }
 
 @media (max-width: 576px) {
