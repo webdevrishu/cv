@@ -544,9 +544,7 @@ body.light hr.separator {
 }
 
 .home .bg {
-	 display: flex!important;
-    align-items: center;
-    flex-wrap: wrap;
+	
   background-color:#000;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1586,10 +1584,7 @@ body.light hr.separator {
     line-height: 28px;
   }
 	
-.home .bg {
-    display: none!important;
-   
-}
+
 }
 
 @media (max-width: 576px) {
